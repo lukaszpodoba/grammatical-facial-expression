@@ -5,7 +5,7 @@ The **Grammatical Facial Expression (GFE) Project** aims to develop a classifica
 
 **Polish Report**: I highly encourage you to read the full Polish report: [Raport Identyfikacja Gestu.pdf](https://github.com/user-attachments/files/18725648/Raport.Identyfikacja.Gestu.pdf)
 
-**Dataset** This project utilizes the dataset available at https://archive.ics.uci.edu/dataset/317/grammatical+facial+expressions
+**Dataset**: This project utilizes the dataset available at: https://archive.ics.uci.edu/dataset/317/grammatical+facial+expressions
 
 ## Extended Target Prediction
 In the original dataset, the target value was provided as a binary indicator (0 or 1) that signaled only whether a facial expression was present or not. In our project, we went a step further by predicting which specific facial expression is being displayed, rather than simply indicating its presence. This enhanced approach allows for a more detailed understanding of facial dynamics in LIBRAS.
